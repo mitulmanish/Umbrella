@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">c96b1383d1efcd33ea8e9f24e6b49502</string>
+    <string name="forecast_url">https://api.forecast.io/forecast/</string>
+    <string name="title_activity_view_forecast">ViewForecastActivity</string>
+</resources>
